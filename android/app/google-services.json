@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984283591074",
+    "project_id": "auth-ded04",
+    "storage_bucket": "auth-ded04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984283591074:android:8f9a105ad1b7a870d3c2fb",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984283591074-qdsu62blr02h624bsjp9trshmni7pd69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfga4bxxz80h_Lo6f7LostOgmSqAlIz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984283591074-qdsu62blr02h624bsjp9trshmni7pd69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
